@@ -1,0 +1,20 @@
+{
+  "/home": {
+    "get": {
+      "data": [
+        {
+          "id": 1,
+          "name": "Luis"
+        }
+      ]
+    },
+    "post": {
+      "data": [
+        {
+          "id": 1,
+          "name": "Steve French"
+        }
+      ]
+    }
+  }
+}
